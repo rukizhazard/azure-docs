@@ -38,31 +38,31 @@ landingContent:
              url: ../../cognitive-services/cognitive-services-support-options.md?context=/azure/cognitive-services/form-recognizer/context/context
       - linkListType: concept
         links:
-          - text: Read model 
+          - text: Read model
             url: concept-read.md
-          - text: General document model 
+          - text: General document model
             url: concept-general-document.md
           - text: Layout model
             url: concept-layout.md
           - text: Custom model
             url: concept-custom.md
-          - text: W-2 Form model 
-            url: concept-w2.md
+          - text: W-2 Form model
+            url: prebuilt-models/concept-tax.us.w2.md
           - text: Invoice model
-            url: concept-invoice.md
+            url: prebuilt-models/concept-invoice.md
           - text: Receipt model
-            url: concept-receipt.md
+            url: prebuilt-models/concept-receipt.md
           - text: ID document model
-            url: concept-id-document.md
+            url: prebuilt-models/concept-idDocument.md
           - text: Business card model
-            url: concept-business-card.md
+            url: prebuilt-models/concept-businessCard.md
 
   #Card 2
    - title: Quickstarts and how-to-guides
      linkLists:
       - linkListType: quickstart
         links:
-        - text: Form Recognizer Studio 
+        - text: Form Recognizer Studio
           url: quickstarts/try-v3-form-recognizer-studio.md
         - text: Form Recognizer Sample Labeling tool
           url: quickstarts/try-sample-label-tool.md
@@ -105,15 +105,15 @@ landingContent:
             url: form-recognizer-studio-overview.md
       - linkListType: get-started
         links:
-          - text: Read model 
+          - text: Read model
             url: https://formrecognizer.appliedai.azure.com/studio/read
-          - text: General document model 
+          - text: General document model
             url: https://formrecognizer.appliedai.azure.com/studio/document
           - text:  Layout model
             url: https://formrecognizer.appliedai.azure.com/studio/layout
           - text:  Custom model
             url: https://formrecognizer.appliedai.azure.com/studio/custommodel/projects
-          - text: W2 model 
+          - text: W2 model
             url: https://formrecognizer.appliedai.azure.com/studio/prebuilt?formType=tax.us.w2
           - text:  Invoice model
             url: https://formrecognizer.appliedai.azure.com/studio/prebuilt?formType=invoice
